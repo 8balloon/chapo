@@ -1,0 +1,31 @@
+{
+  "name": "chapo",
+  "version": "0.0.1",
+  "description": "fullstack react dataflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/8balloon/chapo.git"
+  },
+  "keywords": [
+    "state",
+    "dataflow",
+    "react",
+    "reactive",
+    "cache",
+    "observable",
+    "pubsub",
+    "eventbus",
+    "fullstack",
+    "framework"
+  ],
+  "author": "Ethan Gregory Clark",
+  "license": "MIT-0",
+  "bugs": {
+    "url": "https://github.com/8balloon/chapo/issues"
+  },
+  "homepage": "https://github.com/8balloon/chapo#readme"
+}
